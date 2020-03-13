@@ -1,0 +1,11 @@
+pip install gtts 
+pip install playsound 
+pip install googletrans
+pip install gspread
+pip install oauth2client
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+flashcard.ico
+tab_flashcard.png
+tab_vocab.png
+translate.png
+creds.json
